@@ -3,11 +3,8 @@
 ### https://nextjs-ecommerce-typescript.vercel.app/
 
 
- - don't forget to leave a star ! :)
+ - don't forget to leave a star ! 
 
-## Authors
-
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
 
 ## Features
 
